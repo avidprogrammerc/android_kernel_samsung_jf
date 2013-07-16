@@ -3553,7 +3553,6 @@ CONFIG_CRYPTO=y
 # Fast Charging configs
 #
 CONFIG_FORCE_FAST_CHARGE=y
-CONFIG_PM8921_CHARGER_CALLBACK=y
 
 #
 # Crypto core or helper
